@@ -1,1 +1,3 @@
-{ "version": "foobar", "public_key": "foobar", "is_new": true }
+{
+  "versions": { "version": "foobar", "public_key": "foobar", "is_new": true }
+}
